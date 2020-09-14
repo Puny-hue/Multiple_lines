@@ -1,0 +1,3 @@
+plt.plot(data1.x_value,data1.y_value)
+plt.plot(data2.x_value,data2.y_value)
+plt.show()
